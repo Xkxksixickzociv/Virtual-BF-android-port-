@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="eyes.png">
+<SubTexture name="Normal0000" x="152" y="0" width="170" height="105" frameX="-141" frameY="-71" frameWidth="400" frameHeight="450" />
+<SubTexture name="Blink0000" x="152" y="0" width="170" height="105" frameX="-141" frameY="-71" frameWidth="400" frameHeight="450" />
+<SubTexture name="Blink0001" x="0" y="109" width="177" height="93" frameX="-133" frameY="-80" frameWidth="400" frameHeight="450" />
+<SubTexture name="Blink0002" x="0" y="0" width="152" height="109" frameX="-143" frameY="-68" frameWidth="400" frameHeight="450" />
+<SubTexture name="Died0000" x="104" y="293" width="76" height="49" frameX="-167" frameY="-128" frameWidth="400" frameHeight="450" />
+<SubTexture name="Really0000" x="262" y="293" width="102" height="36" frameX="-155" frameY="-140" frameWidth="400" frameHeight="450" />
+<SubTexture name="Happy0000" x="180" y="293" width="82" height="46" frameX="-161" frameY="-130" frameWidth="400" frameHeight="450" />
+<SubTexture name="Closed0003" x="0" y="343" width="120" height="36" frameX="-145" frameY="-140" frameWidth="400" frameHeight="450" />
+<SubTexture name="Scared0000" x="177" y="109" width="132" height="72" frameX="-140" frameY="-109" frameWidth="400" frameHeight="450" />
+<SubTexture name="EyesO0000" x="163" y="265" width="104" height="24" frameX="-151" frameY="-144" frameWidth="400" frameHeight="450" />
+<SubTexture name="EyesO0001" x="0" y="293" width="104" height="50" frameX="-151" frameY="-130" frameWidth="400" frameHeight="450" />
+<SubTexture name="unNormal0000" x="322" y="0" width="68" height="54" frameX="-173" frameY="-123" frameWidth="400" frameHeight="450" />
+<SubTexture name="Tired0000" x="120" y="343" width="104" height="32" frameX="-153" frameY="-139" frameWidth="400" frameHeight="450" />
+<SubTexture name="unClosedSimple0000" x="224" y="343" width="111" height="22" frameX="-147" frameY="-148" frameWidth="400" frameHeight="450" />
+<SubTexture name="Furious0000" x="0" y="202" width="163" height="91" frameX="-134" frameY="-87" frameWidth="400" frameHeight="450" />
+<SubTexture name="Sexy0000" x="163" y="202" width="103" height="63" frameX="-152" frameY="-110" frameWidth="400" frameHeight="450" />
+</TextureAtlas>

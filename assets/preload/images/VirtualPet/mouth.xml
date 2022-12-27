@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mouth.png">
+<SubTexture name="Normal0000" x="67" y="168" width="83" height="30" frameX="-170" frameY="-174" frameWidth="400" frameHeight="450" />
+<SubTexture name="Sad0000" x="117" y="133" width="83" height="34" frameX="-175" frameY="-173" frameWidth="400" frameHeight="450" />
+<SubTexture name="Scared0000" x="0" y="97" width="89" height="36" frameX="-170" frameY="-176" frameWidth="400" frameHeight="450" />
+<SubTexture name="Happy0000" x="130" y="0" width="78" height="39" frameX="-171" frameY="-175" frameWidth="400" frameHeight="450" />
+<SubTexture name="Happy0001" x="0" y="0" width="92" height="53" frameX="-160" frameY="-174" frameWidth="400" frameHeight="450" />
+<SubTexture name="Eat0000" x="0" y="168" width="67" height="34" frameX="-175" frameY="-173" frameWidth="400" frameHeight="450" />
+<SubTexture name="Eat0001" x="130" y="39" width="67" height="39" frameX="-175" frameY="-174" frameWidth="400" frameHeight="450" />
+<SubTexture name="Smile0000" x="208" y="0" width="79" height="26" frameX="-169" frameY="-177" frameWidth="400" frameHeight="450" />
+<SubTexture name="uwu0000" x="208" y="26" width="46" height="20" frameX="-180" frameY="-183" frameWidth="400" frameHeight="450" />
+<SubTexture name="Sleep0000" x="89" y="97" width="90" height="36" frameX="-165" frameY="-177" frameWidth="400" frameHeight="450" />
+<SubTexture name="Sleep0001" x="89" y="97" width="90" height="36" frameX="-165" frameY="-177" frameWidth="400" frameHeight="450" />
+<SubTexture name="Sleep0002" x="89" y="97" width="90" height="36" frameX="-165" frameY="-177" frameWidth="400" frameHeight="450" />
+<SubTexture name="Sleep0003" x="89" y="97" width="90" height="36" frameX="-165" frameY="-177" frameWidth="400" frameHeight="450" />
+<SubTexture name="Sleep0004" x="0" y="53" width="84" height="44" frameX="-168" frameY="-180" frameWidth="400" frameHeight="450" />
+<SubTexture name="Sleep0005" x="0" y="53" width="84" height="44" frameX="-168" frameY="-180" frameWidth="400" frameHeight="450" />
+<SubTexture name="Sleep0006" x="0" y="53" width="84" height="44" frameX="-168" frameY="-180" frameWidth="400" frameHeight="450" />
+<SubTexture name="Sleep0007" x="0" y="53" width="84" height="44" frameX="-168" frameY="-180" frameWidth="400" frameHeight="450" />
+<SubTexture name="Sleep0008" x="0" y="53" width="84" height="44" frameX="-168" frameY="-180" frameWidth="400" frameHeight="450" />
+<SubTexture name="Sleep0009" x="0" y="53" width="84" height="44" frameX="-168" frameY="-180" frameWidth="400" frameHeight="450" />
+<SubTexture name="Sleep0010" x="0" y="53" width="84" height="44" frameX="-168" frameY="-180" frameWidth="400" frameHeight="450" />
+<SubTexture name="Sleep0011" x="0" y="53" width="84" height="44" frameX="-168" frameY="-180" frameWidth="400" frameHeight="450" />
+<SubTexture name="Sleep0012" x="84" y="53" width="30" height="42" frameX="-173" frameY="-188" frameWidth="400" frameHeight="450" />
+<SubTexture name="Sleep0013" x="84" y="53" width="30" height="42" frameX="-173" frameY="-188" frameWidth="400" frameHeight="450" />
+<SubTexture name="Sleep0014" x="84" y="53" width="30" height="42" frameX="-173" frameY="-188" frameWidth="400" frameHeight="450" />
+<SubTexture name="Sleep0015" x="84" y="53" width="30" height="42" frameX="-173" frameY="-188" frameWidth="400" frameHeight="450" />
+<SubTexture name="Sleep0016" x="92" y="0" width="38" height="46" frameX="-160" frameY="-191" frameWidth="400" frameHeight="450" />
+<SubTexture name="Sleep0017" x="92" y="0" width="38" height="46" frameX="-160" frameY="-191" frameWidth="400" frameHeight="450" />
+<SubTexture name="Sleep0018" x="92" y="0" width="38" height="46" frameX="-160" frameY="-191" frameWidth="400" frameHeight="450" />
+<SubTexture name="Sleep0019" x="92" y="0" width="38" height="46" frameX="-160" frameY="-191" frameWidth="400" frameHeight="450" />
+<SubTexture name="Sleep0020" x="92" y="0" width="38" height="46" frameX="-160" frameY="-191" frameWidth="400" frameHeight="450" />
+<SubTexture name="Sleep0021" x="92" y="0" width="38" height="46" frameX="-160" frameY="-191" frameWidth="400" frameHeight="450" />
+<SubTexture name="Sleep0022" x="92" y="0" width="38" height="46" frameX="-160" frameY="-191" frameWidth="400" frameHeight="450" />
+<SubTexture name="Sleep0023" x="92" y="0" width="38" height="46" frameX="-160" frameY="-191" frameWidth="400" frameHeight="450" />
+<SubTexture name="Weird0000" x="0" y="133" width="117" height="35" frameX="-158" frameY="-176" frameWidth="400" frameHeight="450" />
+</TextureAtlas>

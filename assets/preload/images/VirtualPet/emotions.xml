@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="emotions.png">
+<SubTexture name="Angry0000" x="0" y="0" width="54" height="57" frameX="-95" frameY="-94" frameWidth="400" frameHeight="450" />
+<SubTexture name="Flushed0000" x="54" y="0" width="79" height="149" frameX="-82" frameY="-46" frameWidth="400" frameHeight="450" />
+<SubTexture name="Drops0000" x="0" y="149" width="157" height="101" frameX="-127" frameY="-92" frameWidth="400" frameHeight="450" />
+<SubTexture name="Nothing0000" x="157" y="149" width="5" height="5" frameX="0" frameY="0" frameWidth="1" frameHeight="1" />
+</TextureAtlas>
